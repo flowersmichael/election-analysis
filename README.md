@@ -1,4 +1,4 @@
-#Election_Analysis 
+# Election Analysis 
 
 ## Overview of Election Audit
 A Colorado Board of Elections employee has been given the following tasks to complete the election audit of a recent local congressional election.
