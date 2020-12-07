@@ -14,13 +14,13 @@ A Colorado Board of Elections employee has been given the following tasks to com
 * Software: Python 3.7.6, Visual Studio Code 1.51.1
 
 ## Election-Audit Results
-* How many votes were cast in this congressional election?
+* How many votes were cast in this congressional election?  
 369,711
 
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-Jefferson County: 10.5% (38,855)
-Denver County: 82.8% (306,055)
-Arapahoe County: 6.7% (24,801)
+Jefferson County: 10.5% (38,855).  
+Denver County: 82.8% (306,055). 
+Arapahoe County: 6.7% (24,801). 
 
 * Which county had the largest number of votes?
 Denver
