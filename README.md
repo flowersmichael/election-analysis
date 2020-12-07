@@ -17,7 +17,7 @@ A Colorado Board of Elections employee has been given the following tasks to com
 * How many votes were cast in this congressional election?  
 369,711
 
-* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.  
 Jefferson County: 10.5% (38,855).  
 Denver County: 82.8% (306,055). 
 Arapahoe County: 6.7% (24,801). 
