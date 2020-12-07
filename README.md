@@ -14,26 +14,26 @@ A Colorado Board of Elections employee has been given the following tasks to com
 * Software: Python 3.7.6, Visual Studio Code 1.51.1
 
 ## Election-Audit Results
-* How many votes were cast in this congressional election?  
+* How many votes were cast in this congressional election?<br/>
 369,711
 
-* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.  
-Jefferson County: 10.5% (38,855).  
-Denver County: 82.8% (306,055). 
-Arapahoe County: 6.7% (24,801). 
+* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.<br/>
+Jefferson County: 10.5% (38,855)<br/>
+Denver County: 82.8% (306,055)<br/>
+Arapahoe County: 6.7% (24,801)<br/>
 
-* Which county had the largest number of votes?  
+* Which county had the largest number of votes?<br/>
 Denver
 
-* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.  
-Charles Casper Stockham: 23.0% (85,213). 
-Diana DeGette: 73.8% (272,892). 
-Raymon Anthony Doane: 3.1% (11,606). 
+* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.<br/>
+Charles Casper Stockham: 23.0% (85,213)<br/>
+Diana DeGette: 73.8% (272,892)<br/>
+Raymon Anthony Doane: 3.1% (11,606)<br/>
 
-* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?  
-Winner: Diana DeGette. 
-Winning Vote Count: 272,892. 
-Winning Percentage: 73.8%. 
+* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?<br/>
+Winner: Diana DeGette<br/>
+Winning Vote Count: 272,892<br/> 
+Winning Percentage: 73.8%<br/>
 
 ![Screenshot of text file](https://github.com/flowersmichael/election-analysis/blob/main/Resources/Screen%20Shot%202020-12-06%20at%209.36.21%20PM.png)
 
